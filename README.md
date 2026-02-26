@@ -12,6 +12,6 @@ chmod +x setup_vscode.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/platform/setup_vscode.sh
+/data/data/com.termux/files/home/sovereign-gtp/src/AiKre8tive-Stargate/platform/setup_vscode.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
